@@ -6,6 +6,12 @@ Guess the hidden number within limited attempts!
 
 ---
 
+## 🎥 Live Demo
+
+![Demo GIF](screenshots/2_demo_gif.gif)
+
+---
+
 ## ✨ Features
 
 ✅ 3 Difficulty Levels (Easy: 1-50 | Medium: 1-100 | Hard: 1-500)
@@ -100,6 +106,12 @@ Game over! Try again on a different difficulty level.
 ## 📄 License
 
 MIT License
+
+---
+
+## 🔗 Related Projects
+
+[Task 1: To-Do List Application](https://github.com/khushirai2216-boop/To-Do_List_app)
 
 ---
 
