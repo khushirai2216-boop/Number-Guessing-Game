@@ -46,7 +46,7 @@ python number_guessing_game.py
 
 ### Step 1: Choose Difficulty Level
 
-![Difficulty Level](screenshots/2_difficulty_level.png)
+![Difficulty Level](screenshots/3_difficulty_level.png)
 
 - **Easy:** 1-50 range, 7 attempts
 - **Medium:** 1-100 range, 6 attempts
@@ -54,19 +54,19 @@ python number_guessing_game.py
 
 ### Step 2: Make Your Guesses
 
-![Gameplay](screenshots/3_gameplay.png)
+![Gameplay](screenshots/4_gameplay.png)
 
 Enter your guess → Get "Higher" or "Lower" hint → Keep guessing!
 
 ### Step 3a: Win Screen
 
-![Winning Screen](screenshots/4_winning_screen.png)
+![Winning Screen](screenshots/5_winning_screen.png)
 
 Congratulations! You found the number!
 
 ### Step 3b: Lose Screen
 
-![Losing Screen](screenshots/5_losing_screen.png)
+![Losing Screen](screenshots/6_losing_screen.png)
 
 Game over! Try again on a different difficulty level.
 
@@ -74,7 +74,7 @@ Game over! Try again on a different difficulty level.
 
 ## 💻 Code Structure
 
-![Code Screenshot](screenshots/6_code_screenshot.png)
+![Code Screenshot](screenshots/7_code_screenshot.png)
 
 **Main Components:**
 - `main()` - Game loop
