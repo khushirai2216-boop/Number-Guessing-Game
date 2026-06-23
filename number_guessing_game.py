@@ -1,3 +1,10 @@
+"""
+Task 2: Number Guessing game
+Saiket Systems - Python Development Internship
+Description: Its a game where the computer opts a number and the user has to guess it using hints as higher or lower with limitations accoring to the difficulty level
+"""
+
+
 import numpy as np
 
 while True:
